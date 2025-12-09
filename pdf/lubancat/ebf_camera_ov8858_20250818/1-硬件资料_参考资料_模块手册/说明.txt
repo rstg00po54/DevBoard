@@ -1,0 +1,7 @@
+野火OV8858适合鲁班猫RK356X系列使用，请参考对应资料部分
+
+https://doc.embedfire.com/products/link/zh/latest/linux/ebf_lubancat.html
+
+
+https://doc.embedfire.com/linux/rk356x/quick_start/zh/latest/quick_start/camera/camera.html
+
