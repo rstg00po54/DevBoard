@@ -1,0 +1,6 @@
+正点原子SDK linux5.10内核，Android13 
+替换下面的文件到SDK，就完成了液晶移植
+
+rockchip: 设备树  SDK/kernel/arch/arm64/boot/dts/rockchip
+panel-simple.c 和panel-limple.h 液晶显示驱动源码 SDK/kernel/drivers/gpu/drm/panel
+gt9xx：触摸芯片驱动程序 SDK/kernel/drivers/input/touchscreen

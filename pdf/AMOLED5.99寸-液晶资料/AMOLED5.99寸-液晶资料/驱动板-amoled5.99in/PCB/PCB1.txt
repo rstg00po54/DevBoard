@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : I:\10.DIY项目\0.工作室项目\2022-05-20-DLH-工作室研发项目\2024-07-26-DLH-5.99寸AMOLED液晶驱动板\2.硬件工程\硬件模板\PCB\PCB1.PcbDoc
+Date         : 2024-07-29
+Time         : 9:48:22
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 168
+    Connections routed, 168
+    Connections remaining, 0
+count : 4
